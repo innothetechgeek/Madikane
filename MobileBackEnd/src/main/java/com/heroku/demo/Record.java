@@ -40,7 +40,7 @@ public class Record {
  }
     
  public String getSurName() {
-        return surName;
+        return surname;
     }   
     
 
